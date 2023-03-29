@@ -6,7 +6,7 @@ The main purpose of this project is to maintain a continuous SQL learning integr
 
 ## Used courses
 
-Gustavo Guanabara: https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+[Curso em vídeo - Gustavo Guanabara - MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 
 ## Used tools 
 
