@@ -10,6 +10,6 @@ Gustavo Guanabara: https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgv
 
 ## Used tools 
 
-MySQL - https://mysql.com/
-WampServer - https://www.wampserver.com/en/
-ChatGPT - https://chat.openai.com/chat
+- MySQL @ https://mysql.com/
+- WampServer @ https://www.wampserver.com/en/
+- ChatGPT @ https://chat.openai.com/chat
