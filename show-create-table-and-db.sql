@@ -1,0 +1,2 @@
+SHOW CREATE TABLE table_name
+SHOW CREATE DATABASE database_name
