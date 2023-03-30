@@ -4,11 +4,12 @@ In this repo, you can find many SQL script examples.
 
 The main purpose of this project is to maintain a continuous SQL learning integration.
 
-## Used courses
+## Materials
 
-[Curso em vídeo - Gustavo Guanabara - MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+- [Curso em vídeo - MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+- [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 
-## Used tools 
+## Tools 
 
 - [MySQL](https://mysql.com/)
 - [WampServer](https://www.wampserver.com/en/)
