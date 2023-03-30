@@ -14,3 +14,11 @@ The main purpose of this project is to maintain a continuous SQL learning integr
 - [MySQL](https://mysql.com/)
 - [WampServer](https://www.wampserver.com/en/)
 - [ChatGPT](https://chat.openai.com/chat)
+
+## Cheat Sheets
+
+![Cheet-Sheet-1](./assets/SQL-Cheet-Sheet-1.png)
+
+![Cheet-Sheet-2](./assets/SQL-Cheat-Sheet-2.png)
+
+![Cheet-Sheet-3](./assets/SQL-Cheat-Sheet-3.png)
