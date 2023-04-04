@@ -22,3 +22,5 @@ The main purpose of this project is to maintain a continuous SQL learning integr
 ![Cheet-Sheet-2](./assets/SQL-Cheat-Sheet-2.png)
 
 ![Cheet-Sheet-3](./assets/SQL-Cheat-Sheet-3.png)
+
+![Certificate](./assets/sql-end-of-course-certificate.jpg)
