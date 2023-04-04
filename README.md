@@ -26,3 +26,7 @@ The main purpose of this project is to maintain a continuous SQL learning integr
 ![Cheet-Sheet-2](./assets/SQL-Cheat-Sheet-2.png)
 
 ![Cheet-Sheet-3](./assets/SQL-Cheat-Sheet-3.png)
+
+## Commands
+
+![Commands](https://media.geeksforgeeks.org/wp-content/uploads/20210920153429/new.png);
