@@ -17,7 +17,7 @@ The main purpose of this project is to maintain a continuous SQL learning integr
 
 ## Certificate
 
-![Certificate](./assets/SQL-End-of-Course-Certificate-1.jpg)
+![Certificate](./assets/SQL-End-of-Course-Certificate1.jpg)
 
 ## Cheat Sheets
 
